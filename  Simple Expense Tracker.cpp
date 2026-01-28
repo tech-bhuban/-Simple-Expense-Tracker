@@ -41,7 +41,7 @@ int main() {
     tracker.showSummary();
     return 0;
 }
-
+//  _GLIBCXX_HAVE_LOG10L
 
 // ### **8. Simple Expense Tracker**
 // **Folder:** `08-expense-tracker/README.md`

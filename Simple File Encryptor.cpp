@@ -37,28 +37,3 @@ int main() {
     std::cout << "File encrypted!\n";
     return 0;
 }
-
-
-
-// ### **3. Simple File Encryptor**
-// **Folder:** `03-file-encryptor/README.md`
-// ```markdown
-// # 🔒 Simple File Encryptor
-
-// A basic file encryption/decryption tool using Caesar cipher technique.
-
-// ## ⚠️ Disclaimer
-// This is for educational purposes only. Not suitable for real encryption needs.
-
-// ## 🔧 How It Works
-// 1. Reads input file character by character
-// 2. Adds encryption key to each character
-// 3. Writes encrypted content to new file
-
-// ## 🚀 Usage
-// ```bash
-// # Compile
-// g++ -o encryptor encryptor.cpp
-
-// # Encrypt a file
-// ./encryptor

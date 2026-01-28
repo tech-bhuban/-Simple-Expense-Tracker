@@ -41,22 +41,3 @@ int main() {
     return 0;
 }
 
-
-
-
-// ### **2. Unit Converter**
-// **Folder:** `02-unit-converter/README.md`
-// ```markdown
-// # 📏 Unit Converter
-
-// A versatile C++ program for converting between different measurement units.
-
-// ## 🔄 Supported Conversions
-// - Temperature: Celsius ↔ Fahrenheit ↔ Kelvin
-// - Length: Meters ↔ Kilometers ↔ Miles ↔ Feet
-// - Weight: Kilograms ↔ Pounds
-
-// ## 🚀 Usage
-// ```bash
-// g++ -o converter unit_converter.cpp
-// ./converter

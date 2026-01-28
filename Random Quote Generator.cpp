@@ -39,28 +39,3 @@ int main() {
     return 0;
 }
 
-
-// ### **6. Random Quote Generator**
-// **Folder:** `06-random-quote-generator/README.md`
-// ```markdown
-// # 💫 Random Quote Generator
-
-// Generates inspirational quotes randomly from a collection.
-
-// ## 📚 Quote Database
-// Contains quotes from famous personalities:
-// - Steve Jobs
-// - Eleanor Roosevelt
-// - Chris Pine
-// - And more...
-
-// ## 🎲 Features
-// - Random quote generation
-// - Add custom quotes
-// - Clean output formatting
-// - Time-based randomization
-
-// ## 🚀 Usage
-// ```bash
-// g++ -o quote_generator quote_generator.cpp
-// ./quote_generator
